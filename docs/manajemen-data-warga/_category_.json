@@ -1,9 +1,8 @@
 {
-  "label": "Manajemen Data Warga",
+  "label": "Data Warga",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "slug": "/manajemen-data-warga",
-    "description": "Panduan menambah, mengedit, mengimpor, dan mengelola profil kependudukan warga RT Anda."
+    "description": "5 minutes to learn the most important Docusaurus concepts."
   }
 }

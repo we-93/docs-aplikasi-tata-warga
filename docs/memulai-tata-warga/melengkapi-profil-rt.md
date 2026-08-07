@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Melengkapi Profil RT
 
-Setelah berhasil membuat akun dan login, langkah pertama yang **wajib** Anda lakukan sebelum dapat mencetak surat atau mengundang warga adalah **Melengkapi Profil RT**. 
+Setelah berhasil membuat akun dan login, langkah pertama yang **wajib** Anda lakukan sebelum dapat mencetak surat atau menginput data warga adalah **Melengkapi Profil RT**. 
 
 Data profil ini sangat penting karena akan digunakan secara otomatis oleh sistem untuk membuat Kop Surat resmi dan membubuhkan penandatangan pada setiap dokumen administrasi warga.
 

@@ -32,11 +32,8 @@ export default function ChatWidget() {
     setIsLoading(true);
 
     try {
-      // In production, change this URL to the actual production URL of tatawarga.net
-      // e.g., 'https://tatawarga.net/api/chat-docs'
-      const apiUrl = process.env.NODE_ENV === 'development' 
-        ? 'http://localhost:3001/api/chat-docs' 
-        : 'https://tatawarga.net/api/chat-docs';
+      // Mengarah langsung ke server utama Tata Warga
+      const apiUrl = 'https://tatawarga.net/api/chat-docs';
 
       const response = await fetch(apiUrl, {
         method: 'POST',
