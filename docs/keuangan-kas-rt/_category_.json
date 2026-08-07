@@ -1,0 +1,9 @@
+{
+  "label": "Keuangan & Kas RT",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "slug": "/keuangan-kas-rt",
+    "description": "Panduan mencatat arus kas, pemasukan, pengeluaran, serta membuat laporan akhir bulan secara transparan."
+  }
+}

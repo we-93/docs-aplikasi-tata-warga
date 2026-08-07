@@ -1,0 +1,116 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #6519c2;
+  --ifm-color-primary-dark: #5b16ae;
+  --ifm-color-primary-darker: #5615a4;
+  --ifm-color-primary-darkest: #471187;
+  --ifm-color-primary-light: #6f1cba;
+  --ifm-color-primary-lighter: #7520c0;
+  --ifm-color-primary-lightest: #8533c9;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #a462f2;
+  --ifm-color-primary-dark: #9358d9;
+  --ifm-color-primary-darker: #8b53cd;
+  --ifm-color-primary-darkest: #7344a9;
+  --ifm-color-primary-light: #ae72f3;
+  --ifm-color-primary-lighter: #b37af4;
+  --ifm-color-primary-lightest: #c394f6;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.hero--primary {
+  background: linear-gradient(135deg, #6519c2 0%, #8c3ce6 100%);
+  position: relative;
+  overflow: hidden;
+  color: white;
+  padding: 4rem 2rem;
+}
+
+.hero--primary::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 60%);
+  pointer-events: none;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.05);
+  border-radius: 16px;
+  padding: 2rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+}
+
+[data-theme='light'] .glass-card {
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+
+[data-theme='dark'] .glass-card {
+  background: rgba(30, 30, 30, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.glass-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 35px rgba(101, 25, 194, 0.15);
+}
+
+.feature-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  display: inline-block;
+  background: linear-gradient(135deg, #6519c2, #9d50f0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+[data-theme='dark'] .feature-icon {
+  background: linear-gradient(135deg, #a462f2, #d1a3ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.feature-img {
+  height: 80px;
+  margin-bottom: 1rem;
+  display: inline-block;
+}
+
+.help-section {
+  text-align: center;
+  padding: 4rem 2rem;
+  background-color: var(--ifm-background-surface-color);
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+}
+
+@media screen and (max-width: 996px) {
+  .hero__title {
+    font-size: 24px !important;
+  }
+  .hero__subtitle {
+    font-size: 16px !important;
+  }
+}
+
