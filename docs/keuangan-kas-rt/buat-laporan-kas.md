@@ -8,6 +8,9 @@ Membuat laporan pertanggungjawaban keuangan setiap akhir bulan kepada warga kera
 
 Di Tata Warga, kami menyematkan **AI Assistant (Kecerdasan Buatan)** yang mampu menganalisis ratusan baris transaksi Anda selama sebulan, dan merangkumnya menjadi teks naratif/bacaan yang enak dibaca dan siap *di-publish*!
 
+
+![Kas Laporan](./kas/kaslaporan.webp)
+
 ## Langkah Membuat Laporan Kas Cerdas
 
 1. Masuk ke menu **Asisten AI** di *Dashboard* Anda.

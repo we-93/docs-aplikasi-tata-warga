@@ -4,10 +4,14 @@ sidebar_position: 1
 
 # Input Pemasukan & Pengeluaran Lewat Dashboard
 
+![Kas RT](./kas/kas.webp)
+
 Pencatatan keuangan yang transparan adalah salah satu kunci suksesnya sebuah kepengurusan RT. Modul **Keuangan & Kas RT** di Tata Warga memungkinkan Anda untuk mencatat seluruh arus kas secara digital dan *real-time*.
 
 ## Cara Mencatat Pemasukan (Iuran/Donasi)
 Jika ada warga yang membayar iuran bulanan atau ada pemasukan lain (misalnya donasi dari donatur luar), ikuti langkah berikut:
+
+![Kas Input](./kas/kasinput.webp)
 
 1. Buka menu **Kas RT** di *Dashboard*.
 2. Klik tombol **"Catat Pemasukan"** (biasanya berwarna hijau/biru).

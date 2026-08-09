@@ -1,8 +1,10 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Cara Reset Password
+
+![Reset Password](./gambar/forgotpass.webp)
 
 Jika Anda lupa kata sandi (*password*) untuk masuk ke aplikasi Tata Warga, Anda tidak perlu khawatir. Kami menyediakan fitur pemulihan kata sandi yang terintegrasi dengan nomor WhatsApp Anda untuk keamanan ekstra.
 

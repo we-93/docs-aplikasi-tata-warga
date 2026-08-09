@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Menambah & Mengedit Warga Lewat WhatsApp
 
+![Import warga](./warga/wargawa.webp)
+
 Selain melalui *Dashboard* website, keunggulan utama aplikasi Tata Warga adalah kemampuannya terintegrasi langsung dengan Grup WhatsApp pengurus RT. Anda bisa menambah, mencari, mengedit, hingga menghapus data warga cukup lewat chat WA!
 
 ## Cara Menambah Warga via WhatsApp

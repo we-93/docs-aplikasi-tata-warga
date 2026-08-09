@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Export Data Warga
 
+![Import warga](./warga/export.webp)
+
 Aplikasi Tata Warga menyediakan fitur pencadangan data mandiri (*backup*) melalui tombol **Export**. Fitur ini memungkinkan Anda menyimpan seluruh data warga dari sistem kembali ke dalam perangkat (komputer/laptop) Anda.
 
 ## Fungsi dan Manfaat Export

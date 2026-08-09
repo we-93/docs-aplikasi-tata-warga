@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Input Pemasukan & Pengeluaran Lewat WhatsApp
 
+![Kas RT WA](./kas/kaswa.webp)
+
 Sama seperti fitur Manajemen Warga dan Pelayanan Surat, Anda juga bisa mencatat keuangan RT langsung melalui obrolan grup WhatsApp! Fitur ini sangat bermanfaat jika Anda sedang berada di luar (misal: di toko bangunan saat membeli keperluan warga) dan ingin langsung mencatat pengeluaran saat itu juga.
 
 ## Cara Mengakses Menu Kas via WhatsApp

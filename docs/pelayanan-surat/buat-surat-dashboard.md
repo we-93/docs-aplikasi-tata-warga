@@ -10,8 +10,12 @@ Seluruh surat yang dibuat melalui fitur ini akan otomatis tersimpan ke dalam **A
 
 ## Langkah Pembuatan Surat
 
+![Surat warga 1](./surat/suratbuat1.webp)
+
 1. Pada menu navigasi (*sidebar*), pilih **Pelayanan Surat**, kemudian klik **Buat Surat Baru**.
 2. Anda akan dihadapkan pada halaman pembuatan surat yang terdiri dari 3 tahapan (*step*).
+
+![Surat warga 2](./surat/suratbuat2.webp)
 
 ### Tahap 1: Pilih Jenis Surat
 Pilih jenis *Template* surat yang ingin Anda buat pada *dropdown* yang tersedia (Misalnya: Surat Pengantar, Surat Keterangan Domisili, atau Surat Keterangan Usaha).
@@ -27,6 +31,9 @@ Setelah memilih jenis surat dan warga, formulir bagian ketiga akan otomatis terb
 *   **Edit Cepat Data Warga:** Data warga akan terisi otomatis. Menariknya, jika ada kesalahan data diri (seperti Alamat atau Pekerjaan), Anda bisa mengubahnya langsung di sini. Perubahan ini akan otomatis memperbarui database profil warga tersebut!
 
 ## Mengunduh & Mencetak
+
+![Surat warga 3](./surat/suratbuat3.webp)
+
 Setelah semua data sudah Anda pastikan benar, klik tombol biru **"Buat & Unduh Surat"** di bagian paling bawah.
 
 Sistem akan langsung memproses data tersebut, menempelkan *Kop Surat*, *Tanda Tangan*, dan *Stempel* (jika sudah Anda unggah di Profil RT), kemudian langsung **mengunduh (download) dokumen surat dalam format PDF**. 

@@ -6,11 +6,13 @@ sidebar_position: 2
 
 Aplikasi Tata Warga membawa kemudahan pelayanan langsung ke genggaman Anda. Ketua RT atau pengurus kini bisa menerbitkan surat resmi ber-kop dan berstempel hanya dengan membalas *chat* WhatsApp, tanpa harus membuka laptop atau masuk ke *dashboard* web.
 
+![Surat warga wa](./surat/suratbuatwa.webp)
+
 Berikut adalah langkah-langkah membuat surat melalui Bot WhatsApp Tata Warga:
 
 ## 1. Memilih Jenis Surat
 1. Buka grup WhatsApp pengurus RT Anda (yang sudah terdaftar di sistem), atau *chat* langsung ke nomor Bot Tata Warga.
-2. Ketik perintah **`#SURAT`** (huruf kapital).
+2. Ketik perintah **`#SURAT`**
 3. Bot akan menampilkan daftar semua template surat yang tersedia di database RT Anda.
 4. Balas pesan tersebut dengan **angka** yang sesuai dengan jenis surat yang diinginkan (Misalnya: `1` untuk Surat Pengantar).
 

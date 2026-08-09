@@ -14,9 +14,14 @@ Anda dapat menambah warga baru atau mengedit data warga yang sudah ada langsung 
 3. Anda akan melihat tabel daftar warga yang sudah terdaftar.
 
 ## Cara Menambah Data Warga Baru
+
+![Tambah warga](./warga/wargatambah.webp)
+
 1. Di halaman **Data Warga**, klik tombol **"Tambah Warga"** (biasanya berada di pojok kanan atas).
 2. Anda akan diarahkan ke formulir penambahan data warga.
 3. Isi formulir yang tersedia. Formulir ini terbagi menjadi 3 bagian utama:
+
+![Popup tambah warga](./warga/wargatambahpopup.webp)
 
 ### A. Informasi Utama
 Bagian ini berisi identitas pokok warga:
@@ -43,6 +48,9 @@ Bagian ini memuat detail lebih lanjut untuk keperluan pencatatan sosial:
 4. Setelah semua data terisi, klik tombol **"Simpan Data Warga"**.
 
 ## Cara Mengedit Data Warga
+
+![Edit warga](./warga/wargaedit.webp)
+
 Jika ada perubahan data (misalnya warga pindah atau berganti nomor HP), Anda dapat mengeditnya dengan mudah:
 1. Buka halaman **Data Warga**.
 2. Cari nama warga yang ingin diedit pada tabel (Anda bisa menggunakan fitur pencarian).

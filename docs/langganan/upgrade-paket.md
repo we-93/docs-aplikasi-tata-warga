@@ -8,6 +8,8 @@ Seiring bertambahnya kebutuhan administrasi RT (misalnya dari yang sebelumnya ha
 
 Alih-alih membuat akun baru, Anda bisa melakukan **Upgrade Paket** (meningkatkan layanan ke *tier* yang lebih tinggi, misalnya dari *Starter* ke *Pro* atau *Premium*).
 
+![Uprade](./tagihan/langgananupgrade.webp)
+
 ## Langkah-Langkah Melakukan Upgrade
 1. Pada *sidebar* aplikasi, klik menu **Langganan**.
 2. Klik tombol **"Upgrade"** (bergambar panah ke atas) di bawah kartu Paket Saat Ini. *(Catatan: Tombol ini tidak akan muncul jika Anda sudah berada di paket tertinggi, yakni PLATINUM).*

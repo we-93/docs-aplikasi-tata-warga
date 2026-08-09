@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Panduan Nomor Surat
 
+![Surat No](./surat/nomorsurat.webp)
+
 Nomor surat adalah komponen krusial dalam tata kelola administrasi RT untuk memastikan legalitas dan keteraturan arsip. Aplikasi Tata Warga dirancang untuk secara otomatis membuatkan (meng-*generate*) nomor surat yang baku dan profesional setiap kali Anda membuat surat.
 
 ## Struktur Nomor Surat Otomatis
@@ -13,7 +15,7 @@ Sistem Tata Warga menggunakan standar format penomoran:
 Sebagai contoh, jika hasilnya adalah **`015/SKTM/RT001-RW009/VIII/2026`**, berikut adalah bedah strukturnya:
 
 1. **`015` (Nomor Urut):** Ini adalah *Nomor Surat*. Sistem akan secara otomatis menghitung berapa banyak surat yang telah RT Anda terbitkan pada bulan berjalan, lalu menambahkan angka 1. (Penomoran akan *reset* atau kembali ke `001` setiap awal bulan baru).
-2. **`SKTM` (Kode Template):** Ini diambil dari Kode Surat yang Anda buat saat mendesain template (Misal: SKTM untuk Surat Keterangan Tidak Mampu, atau SP untuk Surat Pengantar).
+2. **`SKTM` (Kode Template):** Ini diambil dari Kode Jenis Surat (Misal: SKTM untuk Surat Keterangan Tidak Mampu, atau SP untuk Surat Pengantar).
 3. **`RT001-RW009` (Identitas Wilayah):** Data ini diambil secara otomatis dari Profil Kepengurusan RT yang telah Anda lengkapi di pengaturan.
 4. **`VIII` (Bulan):** Bulan diterbitkannya surat dalam angka Romawi (Januari = I, Agustus = VIII, dsb).
 5. **`2026` (Tahun):** Tahun penerbitan surat.

@@ -4,12 +4,15 @@ sidebar_position: 1
 
 # Perpanjang Langganan
 
-Untuk memastikan pengurus RT Anda selalu terhubung dan dapat terus menikmati seluruh fasilitas cerdas dari Tata Warga, Anda harus memastikan masa aktif paket berlangganan tidak habis (Nonaktif).
+Untuk memastikan akun RT Anda selalu terhubung dan dapat terus menikmati seluruh fasilitas cerdas dari Tata Warga, Anda harus memastikan masa aktif paket berlangganan tidak habis (Nonaktif).
 
 Halaman **Manajemen Langganan** dirancang untuk memberi Anda transparansi penuh terkait jenis paket saat ini, sisa kuota, dan masa aktif aplikasi Anda.
 
+
+![Perpanjangan](./tagihan/langgananrenew.webp)
+
 ## Cara Melakukan Perpanjangan
-Anda dapat memperpanjang paket Anda kapan saja sebelum atau sesudah masa aktif habis. Kuota (seperti jatah surat dan token AI) akan diatur ulang (*reset*) menjadi kuota bawaan paket setiap kali Anda sukses memperpanjang.
+Anda dapat memperpanjang paket Anda kapan saja sebelum atau sesudah masa aktif habis. Kuota (seperti kuota surat dan token AI) akan diatur ulang (*reset*) menjadi kuota bawaan paket setiap kali Anda sukses memperpanjang.
 
 1. Pada *sidebar* aplikasi, klik menu **Langganan**.
 2. Anda akan melihat kartu **Paket Saat Ini** di sebelah kiri.

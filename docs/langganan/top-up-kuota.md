@@ -11,6 +11,8 @@ Oleh karena itu, Tata Warga menyediakan fitur **Topup Kuota (Add-ons)**!
 ## Apa itu Top-up Kuota?
 Fitur ini memungkinkan Anda untuk **membeli kuota ekstra secara eceran/satuan**, terpisah dari biaya langganan bulanan utama Anda. Kuota dari Add-on ini akan langsung ditambahkan (diakumulasikan) ke sisa kuota paket utama Anda saat ini.
 
+![Top-up](./tagihan/langganantopup.webp)
+
 ## Cara Melakukan Top-up
 1. Pada *sidebar* aplikasi, klik menu **Langganan**.
 2. Pada area tombol di bawah kartu Paket Saat Ini, klik tombol **"Topup Kuota"** (berikon tanda tambah).

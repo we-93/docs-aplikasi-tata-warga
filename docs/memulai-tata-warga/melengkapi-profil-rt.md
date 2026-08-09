@@ -1,8 +1,10 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # Melengkapi Profil RT
+
+![Profil RT](./gambar/profilrt1.webp)
 
 Setelah berhasil membuat akun dan login, langkah pertama yang **wajib** Anda lakukan sebelum dapat mencetak surat atau menginput data warga adalah **Melengkapi Profil RT**. 
 
@@ -23,13 +25,16 @@ Pastikan data di bawah ini diketik dengan lengkap beserta gelar wilayahnya (sepe
 *   **Kecamatan**
 *   **Kabupaten / Kota**
 *   **Provinsi**
-*   **Alamat & Kode Pos:** Ketik alamat lengkap sekretariat RT (akan tampil di bagian bawah Kop Surat).
+*   **Alamat:** Ketik alamat lengkap sekretariat RT (akan tampil di bagian bawah Kop Surat).
 
 ## 3. Media & Berkas (Untuk Cetak Surat)
+
+![Upload profilRT](./gambar/profilrt2.webp)
+
 Bagian ini mengatur estetika dan legalitas surat yang dicetak sistem.
 *   **Logo / Kop Surat (Wajib):** Unggah logo perumahan atau logo RT Anda.
 *   **Tanda Tangan Ketua RT (Opsional):** Unggah foto/scan tanda tangan asli Anda berlatar belakang transparan (PNG). Jika diunggah, surat warga akan secara otomatis dibubuhi tanda tangan ini (sehingga tidak perlu tanda tangan basah lagi).
-*   **Stempel RT (Opsional):** Unggah scan stempel resmi RT Anda.
+*   **Stempel RT (Opsional):** Unggah scan stempel resmi RT Anda berlatar belakang transparan (PNG). Jika diunggah, surat warga akan secara otomatis dibubuhi stempel ini.
 
 Setelah semua data terisi dengan benar dan berkas berhasil diunggah, klik tombol **"Simpan Pengaturan"**. 
 
