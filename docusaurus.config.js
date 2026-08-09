@@ -10,7 +10,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Welcome to Tata Warga',
+  title: 'Tutorial Tata Warga',
   tagline: 'Halaman ini akan memberikan panduan menggunakan sistem Tata Warga, silakan akses berdasarkan kategori. Terdapat juga Chat Tata Ai di bawah pojok kiri untuk menanyakan apapun tentang Tata Warga.',
   favicon: 'img/Favicon tata warga.png',
 
@@ -84,7 +84,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/LOGO TATA WARGA CLEAN.png',
       colorMode: {
         respectPrefersColorScheme: true,
       },
