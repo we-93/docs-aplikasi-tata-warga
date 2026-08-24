@@ -109,7 +109,7 @@ const config = {
           {
             type: 'html',
             position: 'right',
-            value: '<div style="order: 99; display: flex; align-items: center; margin-left: 8px;"><a href="https://tatawarga.net/auth/login/" class="navbar__item navbar__link login-btn" style="display:flex; align-items:center; gap:8px; background-color:var(--ifm-color-primary); color:white; border-radius:20px; padding:6px 16px; font-weight:600;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"></path><polyline points="10 17 15 12 10 7"></polyline><line x1="15" y1="12" x2="3" y2="12"></line></svg> Login</a></div>',
+            value: '<div style="order: 99; display: flex; align-items: center; margin-left: 8px;"><a href="https://tatawarga.web.id/auth/login" class="navbar__item navbar__link login-btn" style="display:flex; align-items:center; gap:8px; background-color:var(--ifm-color-primary); color:white; border-radius:20px; padding:6px 16px; font-weight:600;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"></path><polyline points="10 17 15 12 10 7"></polyline><line x1="15" y1="12" x2="3" y2="12"></line></svg> Login</a></div>',
           },
         ],
       },
