@@ -1,9 +1,0 @@
-{
-  "label": "Token & Kuota",
-  "position": 8,
-  "link": {
-    "type": "generated-index",
-    "slug": "/token-kuota",
-    "description": "Pemahaman tentang perhitungan Token AI, Kuota Surat, dan Kapasitas Maksimal Warga di akun Anda."
-  }
-}

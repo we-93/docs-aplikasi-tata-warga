@@ -2,48 +2,61 @@
 sidebar_position: 1
 ---
 
-# Menambah & Mengedit Warga Lewat Dashboard
+# Menambah & Mengedit Warga
 
 Aplikasi Tata Warga menyediakan fitur Manajemen Data Warga yang lengkap untuk mempermudah Ketua RT atau Admin dalam melakukan pendataan kependudukan di lingkungan RT.
 
-Anda dapat menambah warga baru atau mengedit data warga yang sudah ada langsung melalui *Dashboard*.
+Anda dapat menambah warga baru atau mengedit data warga yang sudah ada langsung melalui *Aplikasi*.
 
 ## Mengakses Halaman Warga
 1. Login ke akun Anda.
-2. Pada menu samping (*sidebar*) di *Dashboard*, pilih menu **Data Warga**.
-3. Anda akan melihat tabel daftar warga yang sudah terdaftar.
+2. Klik tombol plus (*berada di posisi tengah*), pilih menu **Tambah Warga**.
+3. Anda akan dibawa ke halaman **Pendaftaran Warga**.
 
 ## Cara Menambah Data Warga Baru
 
 ![Tambah warga](./warga/wargatambah.webp)
 
-1. Di halaman **Data Warga**, klik tombol **"Tambah Warga"** (biasanya berada di pojok kanan atas).
-2. Anda akan diarahkan ke formulir penambahan data warga.
+1. Di halaman ***Pendaftaran Warga**, masukan Nomor KK (Kartu Keluarga).
+2. Jika No KK belum terdaftar, Anda akan diarahkan ke formulir penambahan data warga.
 3. Isi formulir yang tersedia. Formulir ini terbagi menjadi 3 bagian utama:
 
-![Popup tambah warga](./warga/wargatambahpopup.webp)
+### A. Informasi Kartu Keluarga
+Bagian ini berisi nomor kartu keluarga:
+*   **No KK (Nomor Kartu Keluarga):** Wajib diisi (maksimal 16 digit).
+*   **Alamat Rumah** (Wajib diisi tanpa nama desa, kecamatan, dan kabupaten)
 
-### A. Informasi Utama
-Bagian ini berisi identitas pokok warga:
-*   **NIK (Nomor Induk Kependudukan):** Wajib diisi (maksimal 16 digit).
-*   **Nomor Kartu Keluarga (KK):** Opsional, namun sangat disarankan untuk pengelompokan keluarga.
-*   **Nama Lengkap:** Wajib diisi sesuai KTP.
-*   **Nama Panggilan:** Opsional.
-
-### B. Data Kelahiran & Biologis
-Bagian ini mendata informasi biologis dasar:
+### B. Anggota #1 (Kepala Keluarga)
+Bagian ini mendata identitias kepala keluarga:
+*   **Hubungan Keluarga** Otomatis terisi sebagai kepala keluarga
+*   **Status warga di RT**
 *   **Tempat & Tanggal Lahir**
-*   **Jenis Kelamin:** (Laki-laki / Perempuan)
-*   **Golongan Darah:** (A / B / AB / O)
-
-### C. Administrasi & Kontak
-Bagian ini memuat detail lebih lanjut untuk keperluan pencatatan sosial:
+*   **NIK**
+*   **Nama Lengkap**
+*   **Jenis Kelamain**
+*   **Tempat Lahir**
+*   **Tanggal Lahir**
 *   **Agama**
 *   **Status Perkawinan**
-*   **Pekerjaan & Pendidikan Terakhir**
-*   **Nomor HP / WhatsApp:** Sangat penting untuk fitur undangan dan notifikasi.
-*   **Status Warga di RT:** (Tetap / Kontrak atau Kost / Pindah Domisili / Meninggal Dunia).
-*   **Alamat Lengkap:** Nama jalan, blok, dan nomor rumah.
+*   **Golongan Darah**
+*   **Pendidikan Terakhir**
+*   **No Hp/Whatsapp**
+
+### C. Tambah Anggota Keluarga Lainnya
+Bagian ini memuat data anggota keluarga lainnya seperti istri, anak, dan lainnya:
+*   **Hubungan Keluarga**
+*   **Status warga di RT**
+*   **Tempat & Tanggal Lahir**
+*   **NIK**
+*   **Nama Lengkap**
+*   **Jenis Kelamain**
+*   **Tempat Lahir**
+*   **Tanggal Lahir**
+*   **Agama**
+*   **Status Perkawinan**
+*   **Golongan Darah**
+*   **Pendidikan Terakhir**
+*   **No Hp/Whatsapp**
 
 4. Setelah semua data terisi, klik tombol **"Simpan Data Warga"**.
 
@@ -52,8 +65,9 @@ Bagian ini memuat detail lebih lanjut untuk keperluan pencatatan sosial:
 ![Edit warga](./warga/wargaedit.webp)
 
 Jika ada perubahan data (misalnya warga pindah atau berganti nomor HP), Anda dapat mengeditnya dengan mudah:
-1. Buka halaman **Data Warga**.
-2. Cari nama warga yang ingin diedit pada tabel (Anda bisa menggunakan fitur pencarian).
-3. Klik tombol **Edit** (ikon pensil) pada baris data warga tersebut.
-4. Ubah informasi yang diperlukan pada formulir.
+1. Buka menu **Warga**.
+2. Cari nama kepala keluarga atau No KK yang ingin diedit (Anda bisa menggunakan fitur pencarian).
+3. Klik tombol **Detail**
+4. Selain mengedit data warga, di halaman ini juga Anda bisa menambah anggota keluarga.
+5. Klik daftar anggota yang ingin Anda edit/hapus
 5. Klik tombol **"Simpan Data Warga"**.

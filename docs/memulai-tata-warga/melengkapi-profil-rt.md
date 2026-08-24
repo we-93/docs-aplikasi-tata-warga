@@ -1,16 +1,16 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Melengkapi Profil RT
 
-![Profil RT](./gambar/profilrt1.webp)
+![Profil RT](./gambar/profilrt.webp)
 
 Setelah berhasil membuat akun dan login, langkah pertama yang **wajib** Anda lakukan sebelum dapat mencetak surat atau menginput data warga adalah **Melengkapi Profil RT**. 
 
 Data profil ini sangat penting karena akan digunakan secara otomatis oleh sistem untuk membuat Kop Surat resmi dan membubuhkan penandatangan pada setiap dokumen administrasi warga.
 
-Untuk mulai melengkapi, navigasikan ke halaman menu **Pengaturan** (ikon roda gigi) di *Dashboard* Anda.
+Untuk mulai melengkapi, navigasikan ke halaman menu **Pengaturan** di *Aplikasi* Anda.
 
 ## 1. Identitas Kepengurusan
 Pada bagian ini, isi informasi dasar terkait struktur kepengurusan RT Anda:
@@ -20,11 +20,11 @@ Pada bagian ini, isi informasi dasar terkait struktur kepengurusan RT Anda:
 *   **Nama Ketua RW:** Nama lengkap Ketua RW (akan tampil di kop surat).
 
 ## 2. Data Wilayah Administrasi
-Pastikan data di bawah ini diketik dengan lengkap beserta gelar wilayahnya (seperti "Desa", "Kelurahan", "Kecamatan", "Kabupaten", atau "Kota") agar **tercetak rapi di Kop Surat**.
-*   **Desa / Kelurahan** (Contoh: `Desa Sukamaju` atau `Kel. Sukaasih`).
-*   **Kecamatan**
-*   **Kabupaten / Kota**
+Pastikan data di bawah ini diisidengan lengkap agar **tercetak rapi di Kop Surat**.
 *   **Provinsi**
+*   **Kabupaten**
+*   **Kecamatan**
+*   **Desa / Kelurahan** (pilih desa Anda, jika tidak ada dalam daftar, ketik manual nama desa/kelurahan).
 *   **Alamat:** Ketik alamat lengkap sekretariat RT (akan tampil di bagian bawah Kop Surat).
 
 ## 3. Media & Berkas (Untuk Cetak Surat)

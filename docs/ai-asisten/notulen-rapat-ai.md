@@ -6,9 +6,11 @@ sidebar_position: 3
 
 Jangan biarkan waktu Anda atau sekretaris RT habis hanya untuk menyusun kalimat baku hasil rapat bulanan. Fitur **Notulen AI** dirancang khusus untuk mengubah catatan mentah (tulisan acak, poin-poin singkat, atau bahkan coretan di kertas) menjadi notulen resmi yang sangat rapi.
 
-## Cara Menggunakan Notulen AI
-Fitur ini memiliki menu tersendiri di luar Asisten AI.
-1. Pada *sidebar* kiri *Dashboard*, klik menu **Notulen AI**.
+![Notulen](./ai/notulen.webp)
+
+## Cara Menggunakan Notulen Rapat AI
+Fitur ini akan memudahkan Ketua RT untuk membuat notulen hasil rapat agar hasilnya bisa langsung di sebar ke warga.
+1. Pilih menu **Notulen AI**.
 2. Isi **Judul Rapat** (Misal: *Musyawarah Pembangunan Gapura*) dan **Tanggal Rapat**.
 3. Pilih **Metode Input Catatan Mentah**. Kami menyediakan dua cara canggih:
    *   **Teks Manual:** Anda bisa mengetik langsung poin-poin acak dari hasil rapat Anda ke dalam kotak teks.

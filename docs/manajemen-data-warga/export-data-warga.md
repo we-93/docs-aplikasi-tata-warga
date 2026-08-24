@@ -1,10 +1,10 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # Export Data Warga
 
-![Import warga](./warga/export.webp)
+![Import warga](./warga/wargaexport.webp)
 
 Aplikasi Tata Warga menyediakan fitur pencadangan data mandiri (*backup*) melalui tombol **Export**. Fitur ini memungkinkan Anda menyimpan seluruh data warga dari sistem kembali ke dalam perangkat (komputer/laptop) Anda.
 
@@ -16,7 +16,7 @@ Terdapat banyak manfaat mengapa Anda perlu melakukan ekspor data warga secara ru
 
 ## Cara Melakukan Export
 Proses ini sangat cepat karena langsung dilakukan oleh peramban (*browser*) Anda:
-1. Masuk ke halaman **Data Warga** pada *Dashboard*.
+1. Masuk ke menu **Warga**
 2. Pastikan tabel warga tidak kosong (Sistem akan memberikan peringatan jika tidak ada data yang bisa di-ekspor).
 3. Klik tombol **"Export"** (dengan ikon unduhan) di sebelah tombol Import pada bagian atas tabel.
 4. Sistem akan secara otomatis menghasilkan file berekstensi `.xlsx` dengan nama file `Data_Warga_RT_[Tanggal_Waktu].xlsx`.
@@ -25,12 +25,18 @@ Proses ini sangat cepat karena langsung dilakukan oleh peramban (*browser*) Anda
 ### Kolom Data pada Hasil Export
 Saat file dibuka di Microsoft Excel atau aplikasi serupa, Anda akan mendapatkan data yang diurutkan rapi, meliputi:
 - No
-- NIK
-- No KK
+- KK
 - Nama Lengkap
-- Jenis Kelamin (Laki-laki / Perempuan)
-- Tempat Lahir & Tanggal Lahir
+- Hubungan Keluarga
+- Jenis Kelamin
+- Tempat Lahir
+- Tanggal Lahir
 - Agama
+- Pendidikan
+- Pekerjaan
+- Status Perkawinan
+- Golongan Darah
 - No HP
-- Status
+- Status Warga
 - Alamat
+

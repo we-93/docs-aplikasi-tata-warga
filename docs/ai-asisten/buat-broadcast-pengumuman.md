@@ -6,9 +6,11 @@ sidebar_position: 2
 
 Menyusun kalimat pengumuman yang pas (tidak terlalu kaku namun tetap sopan) seringkali memakan waktu. Melalui tab **Broadcast Pengumuman** di menu **Asisten AI**, Anda bisa membuat draf kalimat profesional hanya dalam hitungan detik.
 
+![Pengumuman](./ai/pengumuman.webp)
+
 ## Langkah Membuat Pengumuman Otomatis
-1. Masuk ke menu **Asisten AI**, lalu klik tab **Broadcast Pengumuman**.
-2. Di kolom sebelah kiri, isi formulir rancangan:
+1. Masuk ke menu **Info/Pengumuman**,.
+2. Anda akan dibawa ke halaman pembuatan pengumuman otomatis, isi formulir rancangan:
    *   **Topik Utama (Wajib):** Contoh: *Kerja Bakti Membersihkan Selokan*.
    *   **Nama Kegiatan:** Contoh: *Kerja Bakti Rutin*.
    *   **Waktu:** Contoh: *Minggu, 08:00 WIB*.
