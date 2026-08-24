@@ -31,11 +31,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Grup Whatsapp Asisten',
+    title: 'AI Assistant',
     imgSrc: '/img/grup-whatsapp-asisten.gif',
     description: (
       <>
-        Manfaatkan bot asisten RT di dalam grup untuk membuat surat, mengelola warga, kas, dan interaksi dengan AI.
+        Gunakan kecerdasan buatan untuk menyusun notulen rapat secara otomatis dan membaca gambar (Vision) dengan cepat.
       </>
     ),
   },
