@@ -29,7 +29,7 @@ Pastikan data di bawah ini diisidengan lengkap agar **tercetak rapi di Kop Surat
 
 ## 3. Media & Berkas (Untuk Cetak Surat)
 
-![Upload profilRT](./gambar/profilrt2.webp)
+
 
 Bagian ini mengatur estetika dan legalitas surat yang dicetak sistem.
 *   **Logo / Kop Surat (Wajib):** Unggah logo perumahan atau logo RT Anda.
