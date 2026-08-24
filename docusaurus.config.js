@@ -115,39 +115,16 @@ const config = {
       },
       footer: {
         style: 'dark',
-        logo: {
-          alt: 'Tata Warga Logo',
-          src: 'img/LOGO TATA WARGA CLEAN.png',
-          href: 'https://tatawarga.net',
-        },
         links: [
-          {
-            title: 'Navigasi',
-            items: [
-              { label: 'Dashboard', href: 'https://tatawarga.net/dashboard/rt' },
-              { label: 'Fitur', href: 'https://tatawarga.net/#fitur' },
-              { label: 'Harga', href: 'https://tatawarga.net/#harga' },
-              { label: 'Tutorial', to: '/' },
-            ],
-          },
-          {
-            title: 'Hubungi Kami',
-            items: [
-              { label: 'Email: info@tatawarga.net', href: 'mailto:info@tatawarga.net' },
-              { label: 'WhatsApp: +62 859 4544 1445', href: 'https://api.whatsapp.com/send?phone=6285945441445&text=Halo%20admin%2C%20saya%20ingin%20informasi%20terkait%20Tata%20Warga....' },
-              { label: 'Instagram: @tatawarga.id', href: 'https://www.instagram.com/tatawarga.id/' },
-              { label: 'YouTube: Tata Warga', href: 'https://www.youtube.com/@TataWarga' },
-            ],
-          },
           {
             title: 'Legalitas',
             items: [
-              { label: 'Kebijakan Privasi', href: 'https://tatawarga.net/privacy' },
-              { label: 'Syarat Ketentuan', href: 'https://tatawarga.net/terms' },
+              { label: 'Kebijakan Privasi', href: 'https://tatawarga.web.id/privacy' },
+              { label: 'Syarat Ketentuan', href: 'https://tatawarga.web.id/terms' },
             ],
           },
         ],
-        copyright: `© ${new Date().getFullYear()} Tata Warga. Hak Cipta Dilindungi.<br/><span style="font-size: 0.8rem; opacity: 0.8; margin-top: 10px; display: inline-block;">Solusi cerdas untuk administrasi RT modern yang terintegrasi dengan WhatsApp dan teknologi AI.</span>`,
+        copyright: `© ${new Date().getFullYear()} Tata Warga. Hak Cipta Dilindungi.`,
       },
       prism: {
         theme: prismThemes.github,
